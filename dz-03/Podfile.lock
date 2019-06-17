@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (5.4.0)
+  - PureLayout (3.1.4)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - Kingfisher
+  - PureLayout
+  - Reachability
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+    - PureLayout
+    - Reachability
+
+SPEC CHECKSUMS:
+  Kingfisher: 9c8f2cc6710334e06f32ba2b45e77707d5e2f0c9
+  PureLayout: f08c01b8dec00bb14a1fefa3de4c7d9c265df85e
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: 63a9792091262e2a677186dd9282ba894e43ba90
+
+COCOAPODS: 1.6.1
